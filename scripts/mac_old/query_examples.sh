@@ -1,0 +1,1 @@
+adb shell content query --uri content://org.protocoder.contentprovider/

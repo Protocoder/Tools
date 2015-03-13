@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"
 
-./adb shell am start -n com.makewithmoto/com.makewithmoto.LauncherActivity
+./adb shell am start -n adb shell am start -n org.protocoder.normal/org.protocoder.activities.LauncherActivity
 
